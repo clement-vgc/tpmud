@@ -6,7 +6,10 @@ this.name = name;
 }
 }
 class Box{
-ArrayList<Thing> contents = new ArrayList<Thing>();
+List<Thing> contents;
+public Box(){
+    this.contents = new ArrayList<Thing>()
+}
 public void add(Thing truc){
     this.contents.add(truc);
 }
