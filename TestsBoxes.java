@@ -53,5 +53,3 @@ public class TestsBoxes{
         assertEquals("La boîte est fermée.", b.actionLook());
     }
 }
-
-}
