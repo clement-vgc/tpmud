@@ -12,4 +12,4 @@ public class TestsBoxes{
     b.add("truc1");
     b.add("truc2");
     }
-};
+}
